@@ -1,5 +1,5 @@
-# <p align="center"> PCA-Demonstrate-Matrix-transposition-on-shared-memory </p>
-
+## <p align="left">Ex No: 6 <br>Date: 5/11/2023</p>
+# <p align="center"> PCA-Demonstrate-Matrix-transposition-on-shared-memory</p>
 
 Comparing the Performance of the Rectangular Shared Memory Kernels with  grid (1,1) block (16,16)
 
