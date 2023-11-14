@@ -37,13 +37,6 @@ Save and execute the program.
 
 ```CUDA
 
-DEVELOPED BY : silambarasan K
-REGISTER NO : 212221230101
-
-```
-
-```CUDA
-
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
